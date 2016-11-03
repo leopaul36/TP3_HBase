@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="HBase:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HBase_jar</output-path>
+    <root id="archive" name="HBase.jar">
+      <element id="module-output" name="HBase" />
+    </root>
+  </artifact>
+</component>
